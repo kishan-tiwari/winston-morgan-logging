@@ -1,0 +1,22 @@
+2023-01-01 21:40:03:403 [32minfo[39m: [32m[39m
+[32m[96mRequest: [93mHEAD [97m/hello [90mat [37mSun Jan 01 2023 21:40:03 GMT+0530, [90mIP: [37m::ffff:127.0.0.1[0m, [90mUser Agent: curl/7.81.0[0m[39m
+[32m[39m
+2023-01-01 21:40:03:403 [32minfo[39m: [32m[95mResponse Body:[0m[39m
+[32m[97m{[0m[39m
+[32m[97m	"message": "Hello World",[0m[39m
+[32m[97m	"statusCode": 200[0m[39m
+[32m[97m}[0m[39m
+[32m[39m
+2023-01-01 21:40:03:403 [32minfo[39m: [32m[96mResponse: [32m200 [37m2.299 ms [39m
+[32m[39m
+2023-01-01 21:40:03:403 [32minfo[39m: [32m[39m
+[32m[96mRequest: [93mHEAD [97m/hello [90mat [37mSun Jan 01 2023 21:40:03 GMT+0530, [90mIP: [37m::ffff:127.0.0.1[0m, [90mUser Agent: curl/7.81.0[0m[39m
+[32m[39m
+2023-01-01 21:40:03:403 [32minfo[39m: [32m[95mResponse Body:[0m[39m
+[32m[97m{[0m[39m
+[32m[97m	"message": "Hello World",[0m[39m
+[32m[97m	"statusCode": 200[0m[39m
+[32m[97m}[0m[39m
+[32m[39m
+2023-01-01 21:40:03:403 [32minfo[39m: [32m[96mResponse: [32m200 [37m0.556 ms [39m
+[32m[39m

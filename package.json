@@ -1,0 +1,18 @@
+{
+  "name": "morgan-winston-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "morgan-body": "^2.6.8",
+    "winston": "^3.8.2"
+  }
+}
